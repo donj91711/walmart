@@ -1,0 +1,12 @@
+# Go specific
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+_test
+.test
+/bin
+/obj
+/vendor
